@@ -1,6 +1,4 @@
 
-.idea/dictionaries/Dongyang_ices.xml
-.idea/hello_py2.iml
-.idea/misc.xml
-.idea/modules.xml
-.idea/workspace.xml
+.idea/
+
+tmp/
